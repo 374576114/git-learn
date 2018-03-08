@@ -105,7 +105,11 @@ $ git help <verb> # eg: git help config
 - `git log --graph` 图形化commit
 - `git help log` 更多输出
 
+<<<<<<< HEAD
 **3)撤销最后一次提交**
+=======
+**3)撤销最后一次提交
+>>>>>>> 6f8c4d474caa056c02ce5e3835a86d014503ef8f
 
 有时候我们提交完了才发现漏掉了几个文件没有加，或者提交信息写错了，需要撤销上次提交
 
