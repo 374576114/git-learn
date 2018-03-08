@@ -4,4 +4,6 @@
 以及都更新了哪些行的什么内容，如图
 <div align=center><src="./image/cvs-file.png"/></div>
 
+<div align=center>
 ![CVS](image/cvs-file.png)
+</div>
